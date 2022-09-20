@@ -1,0 +1,17 @@
+# Settings for the repository
+
+# Cause line endings in the repository to be newline (\n) and local files to be that of the operating system,
+# LF for Linux and Mac and CRLF for Windows.
+
+* text=auto
+
+# Denote binary files
+
+*.png binary
+*.jpg binary
+
+# Removes CSS from Used Lang from Github
+*.css linguist-detectable=false
+
+# Removes Javascript from Used Lang from Github
+*.js linguist-detectable=false
