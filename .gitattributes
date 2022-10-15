@@ -9,6 +9,3 @@
 
 *.png binary
 *.jpg binary
-
-# Removes CSS from Used Lang from Github
-*.css linguist-detectable=false
