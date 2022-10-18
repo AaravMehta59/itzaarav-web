@@ -27,7 +27,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://instagram.com/aar.av_meh.ta/">Instgram</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://github.com/PixelDevs">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="./redirect/frnds.html">8th A Friends</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="./redirect/pheonix.html">Tean Pheonix</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="./redirect/pheonix.html">Team Pheonix</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html" target="_blank">Get Lost</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
