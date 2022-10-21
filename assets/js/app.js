@@ -465,7 +465,7 @@ $(function submitAnimation() {
     else {
 
       setTimeout(function () {
-        $("#lnch").addClass("launching").text("Sending");
+        $("#lnch").addClass("launching").text("Sending to Heaven");
         $("#lnch_btn").addClass("launching");
       }, 0);
       setTimeout(function () {
