@@ -3,4 +3,4 @@
 ### Licenced under The MIT Licence
 #### Hosted in these domains :-
 ##### [ITZAARAV.NETLIFY.APP](https://itzaarav.netlify.app/)
-##### [GITHUB.IO](https://PixelCodez.github.io/)
+
