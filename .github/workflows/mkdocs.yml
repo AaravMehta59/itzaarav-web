@@ -14,7 +14,7 @@ jobs:
     # The tasks each job should run
     steps:
       - name: Checkout Master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Build and Deploy Documentation using MkDocs
         uses: Tangerine-Community/tangy-mkdocs-build-action@v1
