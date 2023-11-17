@@ -136,7 +136,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Contact Me</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/9ZiOkuWRz" method="POST" accept-charset="UTF-8" netlify>
+                <form name="form1" action="https://formcarry.com/s/SCjsP3FVK9" method="POST" accept-charset="UTF-8" netlify>
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
