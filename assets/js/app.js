@@ -26,7 +26,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://github.com/AaravMehta59">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="./techstack.html">Tech Stack</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="./redirect/pheonix.html">Team Pheonix</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://bitquote.netlify.app/">BitQuote Co.</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>
