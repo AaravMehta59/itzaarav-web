@@ -153,7 +153,7 @@ const App = () => {
   return /*#__PURE__*/(
     React.createElement(Fragment, null, /*#__PURE__*/
     React.createElement("div", { className: "bear__wrap" }, /*#__PURE__*/
-    React.createElement("div", { ref: swearRef, className: "bear__swear" }, "GO AWAY! LET ME SLEEP"), /*#__PURE__*/
+    React.createElement("div", { ref: swearRef, className: "bear__swear" }, "#$@%^*@$#*$&"), /*#__PURE__*/
 
 
     React.createElement("svg", {
