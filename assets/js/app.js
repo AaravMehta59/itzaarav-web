@@ -463,11 +463,11 @@ $(function submitAnimation() {
     else {
 
       setTimeout(function () {
-        $("#lnch").addClass("launching").text("Sending to Heaven");
+        $("#lnch").addClass("launching").text("Sending...");
         $("#lnch_btn").addClass("launching");
       }, 0);
       setTimeout(function () {
-        $("#lnch").addClass("launched").text("SENT");
+        $("#lnch").addClass("launched").text("sent");
         $("#lnch_btn").addClass("launched");
       }, 1500);
       // Wait for 2.2 seconds so that the send button animation can be fully played before submitting the form
