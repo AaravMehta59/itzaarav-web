@@ -1,1 +1,0 @@
-window.alert('Welcome to Axis Cloud Portal. Click OK to proceed.')

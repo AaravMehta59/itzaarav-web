@@ -1,3 +1,5 @@
+/* Copyright 2024 Aarav Mehta - All rights reserved */
+
 const {
   React: { useState, useRef, useEffect, Fragment },
   ReactDOM: { render },
