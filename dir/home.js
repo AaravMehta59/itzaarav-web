@@ -1,5 +1,10 @@
-const body = document.body
+/*
 
+COPYRIGHT (C) - 2024 Aarav Mehta
+
+*/
+
+const body = document.body
 const btnTheme = document.querySelector('.fa-moon')
 const btnHamburger = document.querySelector('.fa-bars')
 
